@@ -1,0 +1,3 @@
+public interface ProductA extends Product {
+    // modify...
+}
